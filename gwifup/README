@@ -1,0 +1,10 @@
+Compile
+---------------------
+make clean
+make gwifup
+make wifup
+
+Execute
+---------------------
+cd ..
+./gwifup
